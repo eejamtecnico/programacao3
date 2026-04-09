@@ -23,15 +23,15 @@ Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tec
     </tr> 
     <tr>
         <td>12/03</td>
-        <td>MTC3</td>
+        <td>MTC3.</td>
     </tr>
     <tr>
         <td>19/03</td>
-        <td><p>MTC3</p></td>
+        <td><p>MTC3.</p></td>
     </tr>
    <tr>
         <td>26/03</td>
-        <td><p>MTC3</p></td>
+        <td><p>MTC3.</p></td>
     </tr>
     <tr>
         <td>02/04</td>
@@ -47,7 +47,7 @@ Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tec
     </tr>
     <tr>
         <td>23/04</td>
-        <td>Linguegame Python</td>
+        <td>Linguegame Python.</td>
     </tr>
      <tr>
         <td>30/04</td>
