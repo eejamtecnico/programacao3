@@ -57,3 +57,6 @@ Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tec
 
 ## Referências
 PYTHON. Documentação oficial. 2026. Disponível em: https://docs.python.org/3.13/reference/index.html. Acesso em 08 de abril de 2026.
+
+## Outros materiais
+Cursos de python da Cisco Academy (com certificado): https://www.netacad.com/pt/learning-collections/python?courseLang=pt-BR 
