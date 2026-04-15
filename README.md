@@ -23,31 +23,27 @@ Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tec
     </tr> 
     <tr>
         <td>12/03</td>
-        <td>MTC3.</td>
+        <td>Ainda era MTC3.</td>
     </tr>
     <tr>
         <td>19/03</td>
-        <td><p>MTC3.</p></td>
+        <td><p>Ainda era MTC3.</p></td>
     </tr>
    <tr>
         <td>26/03</td>
-        <td><p>MTC3.</p></td>
+        <td><p>Ainda era MTC3.</p></td>
     </tr>
     <tr>
         <td>02/04</td>
         <td>Feriado.</td>
     </tr>
     <tr>
-        <td>09/04</td>
-        <td>Git e Github.</td>
-    </tr>
-    <tr>
-        <td>16/04</td>
-        <td>Apresentações dos problemas de pesquisa.</td>
+        <td>09/04 e 16/04</td>
+        <td><a href="https://canva.link/939cq6aw4al9rrk">Hierarquia de diretórios, Git e Github.</a></td>
     </tr>
     <tr>
         <td>23/04</td>
-        <td>Linguegame Python.</td>
+        <td>Apresentações do tema, problema e hipotese da pesquisa.</td>
     </tr>
      <tr>
         <td>30/04</td>
