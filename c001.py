@@ -1,6 +1,6 @@
 import sys
 
-# declara variáveis
+# inicializa variáveis (nome e valor)
 x=3
 y=3.142128
 w='Oi'
