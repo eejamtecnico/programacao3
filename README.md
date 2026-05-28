@@ -10,7 +10,9 @@ Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tec
   </a>
 </p>
 
-## Cronograma do primeiro bimestre
+## Cronograma do segundo bimestre
+
+## Cronograma do segundo
 
 <table border="1">
     <tr>
@@ -18,37 +20,17 @@ Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tec
         <th>Tema</th>
     </tr>
     <tr>
-        <td>05/03</td>
-        <td>Sem aula no contraturno.</td>
+        <td>14/05 a 28/05 </td>
+        <td>Estruturas condicionais: if, elif e else</td>
     </tr> 
     <tr>
-        <td>12/03</td>
-        <td>Ainda era MTC3.</td>
-    </tr>
+        <td></td>
+        <td>Estruturas de repetição: for e while</td>
+    </tr> 
     <tr>
-        <td>19/03</td>
-        <td><p>Ainda era MTC3.</p></td>
-    </tr>
-   <tr>
-        <td>26/03</td>
-        <td><p>Ainda era MTC3.</p></td>
-    </tr>
-    <tr>
-        <td>02/04</td>
-        <td>Feriado.</td>
-    </tr>
-    <tr>
-        <td>09/04 e 16/04</td>
-        <td><a href="https://canva.link/939cq6aw4al9rrk">Hierarquia de diretórios, Git e Github.</a></td>
-    </tr>
-    <tr>
-        <td>23/04</td>
-        <td>Apresentações do tema, problema e hipotese da pesquisa.</td>
-    </tr>
-     <tr>
-        <td>30/04</td>
-        <td>Resultados do primeiro bimestre.</td>
-    </tr>
+        <td></td>
+        <td>Funções modularidade e reutilização</td>
+    </tr> 
 </table>
 
 ## Referências
