@@ -105,6 +105,41 @@ Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tec
     </tr> 
 </table>
 
+## Competências
+
+### Primeiro bimestre
+
+<ul>
+    <li>Configurar o ambiente de desenvolvimento, instalando e organizando as ferramentas necessárias para programar em Python, reconhecendo os principais tipos de arquivos utilizados.</li>
+    <li>Compreender as características da linguagem Python, identificando suas vantagens, áreas de aplicação e sua sintaxe básica.</li>
+    <li>Declarar e utilizar variáveis primitivas, compreendendo seus atributos essenciais: nome (rótulo), valor, tipo, endereço de memória e tamanho.</li>
+    <li>Realizar operações aritméticas, aplicando os operadores matemáticos disponíveis na linguagem para resolução de problemas computacionais.</li>
+    <li>Aplicar operações relacionais e lógicas, utilizando operadores de comparação e os operadores booleanos AND, OR e NOT para construção de expressões condicionais.</li>
+    <li>Implementar estruturas condicionais com if, elif e else, controlando o fluxo de execução de programas com base em condições lógicas.</li>    
+</ul>
+
+### Segundo bimestre
+
+<ul>
+    <li>Consolidar o uso de estruturas condicionais (if, elif e else), aplicando-as em situações-problema de maior complexidade.</li>
+    <li>Implementar estruturas de repetição com for e while, automatizando tarefas repetitivas e percorrendo sequências de dados de forma eficiente.</li>
+    <li>Criar e utilizar funções, compreendendo os princípios de modularidade e reutilização de código para tornar os programas mais organizados e legíveis.</li>  
+</ul>
+
+### Terceiro bimestre
+
+<ul>
+    <li>Utilizar listas, tuplas e dicionários, compreendendo as características de cada estrutura de dados e aplicando-as adequadamente no armazenamento e manipulação de informações.</li>
+    <li>Compreender e aplicar os conceitos de Orientação a Objetos, criando e utilizando classes, objetos, métodos e atributos para modelar soluções computacionais de forma estruturada e reutilizável.</li>   
+</ul>
+
+### Quarto bimestre
+
+<ul>
+    <li>Desenvolver interfaces gráficas, utilizando bibliotecas Python para criar aplicações com janelas, botões e outros elementos visuais que melhorem a experiência do usuário.</li>
+    <li>Construir um projeto CRUD completo, integrando os conhecimentos de lógica de programação, orientação a objetos e interface gráfica para desenvolver uma aplicação funcional de criação, leitura, atualização e exclusão de dados.</li>   
+</ul>
+
 ## Referências
 <p>PYTHON. Documentação oficial. 2026. Disponível em: https://docs.python.org/3.13/reference/index.html. Acesso em 08 de abril de 2026.</p>
 
